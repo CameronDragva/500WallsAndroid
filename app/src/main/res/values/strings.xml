@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">500 Walls</string>
+    <string name="title_activity_categories">categories</string>
 </resources>
